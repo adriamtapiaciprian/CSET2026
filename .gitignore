@@ -1,0 +1,2 @@
+*.txt
+# the star is telling git to ignore any file with the .txt or any other extentsion
